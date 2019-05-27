@@ -4,7 +4,7 @@ This is my first i IP,contains all my current projects, about me, contact inform
 
 ##Project by
 Jeffrey Muriithi Kirigo
-@Moringa School prep
+@Moringa School-prep
 
 ##SETUP AND INSTALLATION
 This website is live on https://github.com/JeffreyKirigo/portfolio.git
