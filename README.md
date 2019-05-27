@@ -13,6 +13,8 @@ Works with any compatible brower
 ##Technologies Used 
 HTML
 CSS
+##screenshot image
+"images/Screenshot from 2019-05-27 15-15-04.png"
 
 ##contact details
 jeffreyem99@gmail.com
